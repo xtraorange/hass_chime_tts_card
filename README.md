@@ -1,2 +1,2 @@
-# hass_chime_tts_card
+# Chime TTS Card
 A configurable card for quick messages using Chime TTS
