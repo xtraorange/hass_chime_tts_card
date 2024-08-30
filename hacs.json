@@ -1,0 +1,11 @@
+{
+    "name": "Chime TTS Card",
+    "content_in_root": false,
+    "filename": "chime-tts-card/chime-tts-card.js",
+    "render_readme": true,
+    "domains": ["lovelace"],
+    "country": "US",
+    "homeassistant": "2024.8.0",
+    "zip_release": false
+  }
+  
